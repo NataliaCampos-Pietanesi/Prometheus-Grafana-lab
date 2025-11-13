@@ -1,0 +1,14 @@
+# Archivos de configuración y logs
+*.log
+*.retry
+.env
+secrets.yaml
+
+# Entornos virtuales
+.venv/
+env/
+.env/
+
+# Archivos generados por sistemas operativos
+.DS_Store
+Thumbs.db
